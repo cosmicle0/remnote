@@ -1,0 +1,27 @@
+{
+  "name": "remnote",
+  "version": "1.0.0",
+  "description": "Remnote for Desktop",
+  "main": "index.js",
+  "scripts": {
+    "start": "electron .",
+    "build": "electron build",
+    "dist":  "electron-builder"
+  },
+  "author": "CosmicIce",
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {
+    "electron": "^9.1.2",
+    "electron-builder": "^22.8.0",
+    "electron-reload": "^1.5.0"
+  },
+  "build": {
+    "appId": "com.remnote.app",
+    "productName": "Remnote",
+    "win": {
+      "target": "nsis",
+      "icon": "src/icon.ico"
+    }
+  }
+}
