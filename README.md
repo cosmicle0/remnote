@@ -12,7 +12,7 @@ Currently, I only have the windows version as I do not own a Computer with Mac O
 
 So, if you are a Mac OS/Linux user, and a developer, you can contribute to this project by building versions for the respective operating systems using my code.
 
-Do not that, when installing, Windows will give you a `Smart Screen` message saying this app is not licensed, and that is because, Windows expects me to pay for licensing it, but i can't, so sorry about that. :)
+Do note that, when installing, Windows will give you a `Smart Screen` message saying this app is not licensed, and that is because, Windows expects me to pay for licensing it, but i can't, so sorry about that. :)
 
 # To download `Remnote for Desktop` for `Windows`, ![Click here](https://github.com/CosmicIceDev/remnote/releases/download/v1.0/remnoteSetupWindows.exe)
 
