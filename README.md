@@ -1,4 +1,4 @@
-# DEPRECATED
+# ⛔️ DEPRECATED
 
 # Remnote for Desktop
 
