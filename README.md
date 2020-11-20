@@ -1,7 +1,7 @@
 # ⛔️ DEPRECATED
 
 # Remnote for Desktop
-
+[![No Maintenance Intended](http://unmaintained.tech/badge.svg)](http://unmaintained.tech/)
 ![GitHub](https://img.shields.io/github/license/CosmiciceDev/remnote?style=for-the-badge)
 ![GitHub All Releases](https://img.shields.io/github/downloads/CosmicIceDev/remnote/total?style=for-the-badge)
 ![Platform](https://img.shields.io/badge/WINDOWS-blue?style=for-the-badge&logo=windows)
