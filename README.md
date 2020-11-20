@@ -1,3 +1,5 @@
+# DEPRECATED
+
 # Remnote for Desktop
 
 ![GitHub](https://img.shields.io/github/license/CosmiciceDev/remnote?style=for-the-badge)
