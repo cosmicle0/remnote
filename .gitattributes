@@ -1,0 +1,2 @@
+# Hide SCSS in linguist bar
+*.scss linguist-language=JavaScript
